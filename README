@@ -1,1 +1,8 @@
-To build an image, start reading here: https://wiki.openpli.org/Information_for_Developers
+## To build image, OpenPLi 10.3. py3
+
+-GCC 10.3.0
+-Glibc 2.33
+-GStreamer 1.19.2
+-Python 3.9.9
+-OpenSSL 1.1.1l & 1.0.2r
+-Busybox 1.33.1
