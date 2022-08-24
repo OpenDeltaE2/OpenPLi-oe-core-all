@@ -1,4 +1,4 @@
-# openpli-oe-core 10.3
+#openpli-oe-core 10.3
 Build environment based on OpenPLi-homebuild (develop branch).
 
 -GCC 10.3.0 \
