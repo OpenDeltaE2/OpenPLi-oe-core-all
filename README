@@ -1,4 +1,4 @@
-## To build image, OpenPLi 10.3. py3
+# To build image, OpenPLi 10.3. py3
 
 -GCC 10.3.0
 -Glibc 2.33
