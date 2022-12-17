@@ -53,25 +53,10 @@ BBLAYERS ?= \
 	$(CURDIR)/openembedded-core/meta \
 	$(CURDIR)/meta-python2 \
 	$(CURDIR)/meta-openpli \
-	$(CURDIR)/meta-dream \
 	$(CURDIR)/meta-vuplus \
-	$(CURDIR)/meta-xsarius \
 	$(CURDIR)/meta-qviart \
-	$(CURDIR)/meta-xp \
-	$(CURDIR)/meta-xtrend \
-	$(CURDIR)/meta-formuler \
-	$(CURDIR)/meta-gfutures \
-	$(CURDIR)/meta-xpeedc \
 	$(CURDIR)/meta-zgemma \
-	$(CURDIR)/meta-edision \
-	$(CURDIR)/meta-miraclebox \
-	$(CURDIR)/meta-spycat \
-	$(CURDIR)/meta-gi \
-	$(CURDIR)/meta-sab \
 	$(CURDIR)/meta-gigablue \
-	$(CURDIR)/meta-amiko \
-	$(CURDIR)/meta-axas \
-	$(CURDIR)/meta-maxytec \
 	$(CURDIR)/meta-octagon \
 	$(CURDIR)/meta-uclan \
 	$(CURDIR)/meta-abcom \
